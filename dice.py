@@ -1,4 +1,5 @@
 import random
+import numpy as np
 choice="!"
 while choice!='NO' and choice!='no' and choice!='No':
 	rand=random.randint(1,6)
